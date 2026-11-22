@@ -1,0 +1,95 @@
+
+@import 'tailwindcss';
+
+
+/* src/
+│
+├── components/
+│   ├── Navbar/
+│   │   ├── Navbar.tsx
+│   │   ├── SearchBar.tsx
+│   │   ├── NavLinks.tsx
+│   │   └── MobileMenu.tsx
+│   │
+│   ├── Home/
+│   │   ├── HeroSection.jsx
+│   │   ├── CategorySection.tsx
+│   │   ├── FeaturedProducts.jsx
+│   │   ├── NewArrivals.jsx
+│   │   ├── PromotionalBanner.jsx
+│   │   └── Newsletter.jsx
+│   │
+│   ├── Products/
+│   │   ├── ProductCard.jsx
+│   │   ├── ProductGrid.jsx
+│   │   ├── ProductFilters.jsx
+│   │   ├── ProductSort.jsx
+│   │   └── ProductGallery.jsx
+│   │
+│   ├── Cart/
+│   │   ├── CartItem.jsx
+│   │   ├── CartList.jsx
+│   │   └── CartSummary.jsx
+│   │
+│   ├── Checkout/
+│   │   ├── ShippingForm.jsx
+│   │   ├── PaymentMethod.jsx
+│   │   └── OrderSummary.jsx
+│   │
+│   ├── Auth/
+│   │   ├── LoginForm.tsx
+│   │   └── RegisterForm.tsx
+│   │
+│   ├── User/
+│   │   ├── ProfileInfo.tsx
+│   │   ├── OrderHistory.tsx
+│   │   └── Wishlist.tsx
+│   │
+│   ├── Admin/
+│   │   ├── AdminSidebar.tsx
+│   │   ├── AdminHeader.tsx
+│   │   ├── DashboardStats.tsx
+│   │   ├── ProductsTable.tsx
+│   │   ├── OrdersTable.tsx
+│   │   └── ProductForm.tsx
+│   │
+│   └── Common/
+│       ├── Button.tsx
+│       ├── Modal.tsx
+│       ├── Loader.tsx
+│       ├── Pagination.tsx
+│       └── Footer.tsx
+│
+├── pages/
+│   ├── HomePage.tsx
+│   ├── ProductsPage.tsx
+│   ├── ProductDetailsPage.tsx
+│   ├── CartPage.tsx
+│   ├── CheckoutPage.tsx
+│   ├── LoginPage.tsx
+│   ├── RegisterPage.tsx
+│   ├── ProfilePage.tsx
+│   ├── WishlistPage.tsx
+│   └── admin/
+│       ├── DashboardPage.tsx
+│       ├── ManageProductsPage.tsx
+│       └── ManageOrdersPage.tsx
+│
+├── types/
+│   ├── product.ts
+│   ├── user.ts
+│   ├── cart.ts
+│   └── order.ts
+│
+├── services/
+│   └── (API services later)
+│
+├── hooks/
+│
+├── context/
+│
+├── data/
+│   └── (Mock data)
+│
+├── App.tsx
+└── main.tsx */
